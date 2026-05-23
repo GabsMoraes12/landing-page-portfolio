@@ -26,7 +26,7 @@ Este projeto demonstra a aplicação prática de desenvolvimento web front-end c
 
 Graças ao *GitHub Pages*, você pode ver esta landing page funcionando em tempo real direto no seu navegador. Acesse o projeto aqui:
 
-**[Clique aqui para visualizar a Landing Page online](https://seu-usuario.github.io/landing-page-portfolio/)** *(Lembre-se de substituir o link acima pela sua URL real gerada pelo GitHub Pages!)*
+**[Clique aqui para visualizar a Landing Page online]([https://seu-usuario.github.io/landing-page-portfolio/](https://gabsmoraes12.github.io/landing-page-portfolio/))** 
 
 ---
 
