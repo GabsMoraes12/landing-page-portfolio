@@ -1,4 +1,4 @@
-# Landing Page Responsiva | Gabriel Moraes
+# Landing Page Responsiva
 
 Este projeto demonstra a aplicação prática de desenvolvimento web front-end combinado com conceitos estratégicos de Marketing Digital e Design de Interface (UI/UX). Trata-se de uma página de captura estruturada do zero, focada em alta conversão e adaptabilidade para diferentes dispositivos (computador e celular).
 
